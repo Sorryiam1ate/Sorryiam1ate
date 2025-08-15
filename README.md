@@ -18,7 +18,8 @@
 
 ---
 
-## 📬 Контакты
-📍 Алматы, Казахстан — открыт к удалёнке и релокации  
-📧 your.email@example.com  
-💼 [LinkedIn](https://linkedin.com) | 💻 [GitHub](https://github.com/yourusername)
+## 📞 Контакты
+- Телефон: +7 (776) 291-24-97
+- Telegram: https://t.me/Sorryiam1ate
+- Email: alishersatbaev96@gmail.com
+
