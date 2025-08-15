@@ -11,8 +11,3 @@
 
 ---
 
-## 📞 Контакты
-- Телефон: +7 (776) 291-24-97
-- Telegram: https://t.me/Sorryiam1ate
-- Email: alishersatbaev96@gmail.com
-
